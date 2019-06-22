@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hackersforfuture</title>
+    <title>Posts on HackersForFuture</title>
     <link>https://ventilator.github.io/posts/</link>
-    <description>Recent content in Posts on Hackersforfuture</description>
+    <description>Recent content in Posts on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2019 16:47:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 08:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>Demo in Regensburg</title>
       <link>https://ventilator.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 21 Jun 2019 16:47:22 +0200</pubDate>
+      <pubDate>Sat, 22 Jun 2019 08:00:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/posts/my-first-post/</guid>
-      <description>Test  lets participate  Clemens</description>
+      <description>FridaysForFuture Demo am 05.07.2019 FfF möchte am 05.97. den Regensburger 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 8 Veranstaltungen auf der Straße mit dem Nebeneffekt hat für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren.
+HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt ideell wie materiell und personell FfF Regensburg dabei. Wir zeigen
+ Wie Feinstaub selbst gemessen werden kann Wie elektronische Geräte selbst repariert werden können  Clemens</description>
     </item>
     
   </channel>
