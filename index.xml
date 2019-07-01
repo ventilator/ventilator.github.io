@@ -6,7 +6,7 @@
     <description>Recent content on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 14:49:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 08:08:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Impressum</title>
       <link>https://ventilator.github.io/impress/</link>
-      <pubDate>Sat, 22 Jun 2019 14:49:55 +0200</pubDate>
+      <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/impress/</guid>
       <description>Angaben gemäß § 5 TMG Clemens Grünewald
@@ -32,7 +32,7 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
       
       <guid>https://ventilator.github.io/about/</guid>
       <description>Als Gruppe HackersForFuture engagieren wir uns in der Citizen Science und Bildung für Technikbegeisterte. Die Mitglieder finden in der Gruppe Austausch, Vernetzung und Innovation zum Thema Globale Erwärmung.
- Wir engagieren uns in lokalen Hackspaces. Wir engagieren uns in lokalen Repair Cafes.  Gegründet hat sich HFF im Juni 2019 im Raum Regensburg.</description>
+ Wir engagieren uns in lokalen Hackspaces. Wir engagieren uns in lokalen Repair Cafes.  Gegründet hat sich HFF im Juni 2019 im Raum Regensburg, dort unterstüzen wir dabei ideell, sowie materiell und personell FfF Regensburg und natürlich alle anderen FfF Bewegungen.</description>
     </item>
     
     <item>
@@ -41,7 +41,8 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
       <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/projects/</guid>
-      <description>Die Feinstaubbelastung der Wohnung messen Wir haben in Regensburg etliche Feinstaubsensoren verteilt. Die Messwerte können auf der Karte angeschaut werden. Hilfestellung zum Bau eigener Sensoren gibt es in lokalen Hackspaces. Ein Projekt von luftdaten.info aus Stuttgart.</description>
+      <description>Die Feinstaubbelastung am Wohnort messen Wir haben in Regensburg etliche Feinstaubsensoren verteilt. Die Messwerte können auf der Karte angeschaut werden, dort gibt es alle Daten der weltweiten Citizen-Science-Bewegung. Hilfestellung zum Bau eigener Sensoren gibt es in lokalen Hackspaces.
+Ein Projekt von luftdaten.info aus Stuttgart.</description>
     </item>
     
     <item>
@@ -50,9 +51,9 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
       <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/targets/</guid>
-      <description>  Wir unterstützen FridaysForFuture ideell, materiell sowie personell Wir engagieren uns im gesellschaftlichen Diskurs
+      <description>Wir unterstützen FridaysForFuture ideell, materiell sowie personell Wir engagieren uns im gesellschaftlichen Diskurs
  Wir vermitteln Wissen um Technologie Wir wünschen uns klare Bekenntnisse zum Klimaschutz  Warum?  Wir denken, globale Erwärmung verdient eine hohe Priorität
- Wir finden, Technologie kann zum Klimaschutz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  </description>
+ Wir finden, Technologie kann zum Klimaschutz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  Warum &amp;lsquo;Hacker&amp;rsquo;? Hacker (engl.) = Mensch mit Technologiebezug und ethischen Grundsätzen</description>
     </item>
     
     <item>
@@ -61,8 +62,8 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
       <pubDate>Sat, 22 Jun 2019 08:00:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/posts/my-first-post/</guid>
-      <description>FridaysForFuture Demo am 05.07.2019 FfF möchte am 05.97. den Regensburger 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 8 Veranstaltungen auf der Straße, mit dem Nebeneffekt für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren.
-HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt dabei ideell wie materiell und personell FfF Regensburg. Wir zeigen
+      <description>FridaysForFuture Demo am 05.07.2019 FfF möchte am 05.07. den Regensburgern 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 9 Veranstaltungen auf der Straße, mit dem Nebeneffekt für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren. HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt dabei ideell wie materiell und personell FfF Regensburg. Die Veranstaltungsdetails werden auf Facebook und im Web gefunden.
+Wir zeigen
  Wie Feinstaub selbst gemessen werden kann Wie elektronische Geräte selbst repariert werden können  Clemens</description>
     </item>
     
