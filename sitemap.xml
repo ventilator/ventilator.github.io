@@ -4,8 +4,24 @@
   
   <url>
     <loc>https://ventilator.github.io/</loc>
-    <lastmod>2019-06-22T08:08:00+02:00</lastmod>
+    <lastmod>2019-08-12T16:54:45+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ventilator.github.io/participate/</loc>
+    <lastmod>2019-08-12T16:54:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ventilator.github.io/posts/</loc>
+    <lastmod>2019-08-12T08:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ventilator.github.io/posts/cccamp19_1/</loc>
+    <lastmod>2019-08-12T08:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +31,6 @@
   
   <url>
     <loc>https://ventilator.github.io/about/</loc>
-    <lastmod>2019-06-22T08:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ventilator.github.io/projects/</loc>
     <lastmod>2019-06-22T08:08:00+02:00</lastmod>
   </url>
   
@@ -34,14 +45,16 @@
   </url>
   
   <url>
-    <loc>https://ventilator.github.io/posts/</loc>
-    <lastmod>2019-06-22T08:00:00+02:00</lastmod>
+    <loc>https://ventilator.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ventilator.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://ventilator.github.io/spaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ventilator.github.io/projects/</loc>
   </url>
   
   <url>

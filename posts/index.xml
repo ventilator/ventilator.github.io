@@ -6,10 +6,20 @@
     <description>Recent content in Posts on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 08:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treffen auf dem ChaosCommunicationCamp 2019</title>
+      <link>https://ventilator.github.io/posts/cccamp19_1/</link>
+      <pubDate>Mon, 12 Aug 2019 08:00:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/cccamp19_1/</guid>
+      <description>Treffen Auf dem CCCamp19 Auf dem Chaos Communication Camp 2019 wird es die Möglichkeit geben, sich zu treffen. Der genaue Zeitpunkt wird im Event-Wiki noch bekannt gegeben, die self organized session wird im Village bei der Binary Kitchen bei Tee (oder Bier) stattfinden.
+Clemens</description>
+    </item>
     
     <item>
       <title>Demo in Regensburg</title>

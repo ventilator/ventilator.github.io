@@ -6,10 +6,30 @@
     <description>Recent content on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 08:08:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 16:54:45 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mitmachen</title>
+      <link>https://ventilator.github.io/participate/</link>
+      <pubDate>Mon, 12 Aug 2019 16:54:45 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/participate/</guid>
+      <description>Mitmachen  Wir haben einen RocketChat: tuwat.hackersforfuture.de
+Dort kann jeder anonym lesen und pseudonym schreiben (keine Emailadresse erforderlich) Neuigkeiten gibt es auch auf Twitter. gerne folgen   Clemens</description>
+    </item>
+    
+    <item>
+      <title>Treffen auf dem ChaosCommunicationCamp 2019</title>
+      <link>https://ventilator.github.io/posts/cccamp19_1/</link>
+      <pubDate>Mon, 12 Aug 2019 08:00:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/cccamp19_1/</guid>
+      <description>Treffen Auf dem CCCamp19 Auf dem Chaos Communication Camp 2019 wird es die Möglichkeit geben, sich zu treffen. Der genaue Zeitpunkt wird im Event-Wiki noch bekannt gegeben, die self organized session wird im Village bei der Binary Kitchen bei Tee (oder Bier) stattfinden.
+Clemens</description>
+    </item>
     
     <item>
       <title>Impressum</title>
@@ -36,16 +56,6 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
     </item>
     
     <item>
-      <title>Projekte</title>
-      <link>https://ventilator.github.io/projects/</link>
-      <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
-      
-      <guid>https://ventilator.github.io/projects/</guid>
-      <description>Die Feinstaubbelastung am Wohnort messen Wir haben in Regensburg etliche Feinstaubsensoren verteilt. Die Messwerte können auf der Karte angeschaut werden, dort gibt es alle Daten der weltweiten Citizen-Science-Bewegung. Hilfestellung zum Bau eigener Sensoren gibt es in lokalen Hackspaces.
-Ein Projekt von luftdaten.info aus Stuttgart.</description>
-    </item>
-    
-    <item>
       <title>Ziele</title>
       <link>https://ventilator.github.io/targets/</link>
       <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
@@ -53,7 +63,7 @@ Ein Projekt von luftdaten.info aus Stuttgart.</description>
       <guid>https://ventilator.github.io/targets/</guid>
       <description>Wir unterstützen FridaysForFuture ideell, materiell sowie personell Wir engagieren uns im gesellschaftlichen Diskurs
  Wir vermitteln Wissen um Technologie Wir wünschen uns klare Bekenntnisse zum Klimaschutz  Warum?  Wir denken, globale Erwärmung verdient eine hohe Priorität
- Wir finden, Technologie kann zum Klimaschutz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  Warum &amp;lsquo;Hacker&amp;rsquo;? Hacker (engl.) = Mensch mit Technologiebezug und ethischen Grundsätzen</description>
+ Wir finden, Technologie kann zum Klimaschutz und zur Klimaresilienz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  Warum &amp;lsquo;Hacker&amp;rsquo;? Hacker (engl.) = Mensch mit Technologiebezug und ethischen Grundsätzen</description>
     </item>
     
     <item>
@@ -65,6 +75,30 @@ Ein Projekt von luftdaten.info aus Stuttgart.</description>
       <description>FridaysForFuture Demo am 05.07.2019 FfF möchte am 05.07. den Regensburgern 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 9 Veranstaltungen auf der Straße, mit dem Nebeneffekt für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren. HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt dabei ideell wie materiell und personell FfF Regensburg. Die Veranstaltungsdetails werden auf Facebook und im Web gefunden.
 Wir zeigen
  Wie Feinstaub selbst gemessen werden kann Wie elektronische Geräte selbst repariert werden können  Clemens</description>
+    </item>
+    
+    <item>
+      <title>Hack/Make/Space</title>
+      <link>https://ventilator.github.io/spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ventilator.github.io/spaces/</guid>
+      <description>In den meisten Städten gibt es Hack- und Makespaces, in denen sich Menschen engagieren. Das sind tolle Orte, $Dinge auszuprobieren. Was könnte dort jetzt und sofort getan werden, das Klima zu schützen?
+Einige Ideen:
+&amp;ldquo;Space Shuttle&amp;rdquo; Zwei, drei alte Fahrräder reparieren und den Mitgliedern zur Verfügung stellen. Schon hat man ein stationsgebundenes und stadtweites Fahrradverleihsystem. Bewährt sich ein großes und ein kleines Rad für verschieden große Menschen sowie Schlösser und Schlüssel in den Gemeinschaftsräumen für Mitglieder und Freunde zu hinterlegen.</description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://ventilator.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ventilator.github.io/projects/</guid>
+      <description>Die Feinstaubbelastung am Wohnort messen Wir haben in Regensburg etliche Feinstaubsensoren verteilt. Die Messwerte können auf der Karte angeschaut werden, dort gibt es alle Daten der weltweiten Citizen-Science-Bewegung. Hilfestellung zum Bau eigener Sensoren gibt es in lokalen Hackspaces.
+Ein Projekt von luftdaten.info aus Stuttgart.
+Mobile Sensoren Die &amp;ldquo;TTGO&amp;rdquo; Plattform ist ein Arduino-kompatibler Mikrocontroller mit
+- GPS - LoraWAN - Akku-Management
+Das ist eine gute Lösung, mobile Sensoraufzeichnungen anzufertigen. z.B. mit dem Fahrrad umherfahren um eine Temperatur und Feinstaubmessung aufzuzeichnen.</description>
     </item>
     
   </channel>
