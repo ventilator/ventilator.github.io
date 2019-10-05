@@ -6,10 +6,35 @@
     <description>Recent content in Posts on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2019 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 12:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Space Eye - Satellitenbilder und autonome Drohnen</title>
+      <link>https://ventilator.github.io/posts/space-eye/</link>
+      <pubDate>Thu, 15 Aug 2019 12:30:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/space-eye/</guid>
+      <description>Hallo allerseits,
+suche ich suche Mitstreiter für Projekte im Bereich Seenotrettung. Es geht um zwei Bereiche:
+space-eye.org beschäftigt sich mit der Auswertung von Satellitenbildern. Wir erhalten von Planet.com und dem DLR in Berlin und in Oberpfaffenhofen Satellitenbilder in RGB und NIR und sogar Radar. Diese möchten wir mittels KI und maschinellem Lernen nach Flüchtlingsbooten durchsuchen. Dafür haben wir zwei KI&amp;rsquo;ler aus der OTH bzw dem SappZ und jemanden von der Uni Oldenburg für den Radar-Teil.</description>
+    </item>
+    
+    <item>
+      <title>Veranstaltungen auf dem ChaosCommunicationCamp</title>
+      <link>https://ventilator.github.io/posts/cccamp19-fahrplan/</link>
+      <pubDate>Thu, 15 Aug 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/cccamp19-fahrplan/</guid>
+      <description>Auf dem Camp sind bisher einige Sessions angekündigt, die ich hier hervorheben möchte:
+Der Vortrag von Julia Riede:
+Deaths per TWh - The Price of Energy and Reducing CO2 Emissions
+Außerdem ist mir aufgefallen
+Es gibt das Village about:freedom mit interessanten Sessions:
+ Reuse, Repair, Recycle, Rethink, Redesign Digitale Werkzeuge zum Verständnis von Klima und Wetter Digitale Werkzeuge zum Verständnis der Energiewende Estimate and calculate carbon footprints  about:freedom is a cluster with a focus on digital (human) rights politics, freedom of information and Free Software.</description>
+    </item>
     
     <item>
       <title>Treffen auf dem ChaosCommunicationCamp 2019</title>
@@ -23,10 +48,10 @@ Clemens</description>
     
     <item>
       <title>Demo in Regensburg</title>
-      <link>https://ventilator.github.io/posts/my-first-post/</link>
+      <link>https://ventilator.github.io/posts/fff-demo-19-07/</link>
       <pubDate>Sat, 22 Jun 2019 08:00:00 +0200</pubDate>
       
-      <guid>https://ventilator.github.io/posts/my-first-post/</guid>
+      <guid>https://ventilator.github.io/posts/fff-demo-19-07/</guid>
       <description>FridaysForFuture Demo am 05.07.2019 FfF möchte am 05.07. den Regensburgern 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 9 Veranstaltungen auf der Straße, mit dem Nebeneffekt für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren. HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt dabei ideell wie materiell und personell FfF Regensburg. Die Veranstaltungsdetails werden auf Facebook und im Web gefunden.
 Wir zeigen
  Wie Feinstaub selbst gemessen werden kann Wie elektronische Geräte selbst repariert werden können  Clemens</description>
