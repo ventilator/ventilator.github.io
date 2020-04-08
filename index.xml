@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackersForFuture</title>
@@ -6,10 +6,20 @@
     <description>Recent content on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 12:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 16:54:45 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>goto: Hackers Against Climate Crisis</title>
+      <link>https://ventilator.github.io/posts/pause/</link>
+      <pubDate>Wed, 08 Apr 2020 12:30:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/pause/</guid>
+      <description>Die forfuture-Bewegung ist wichtig. Für mich aktuell die Situation um COVID-19 dringender. Ich habe die wenig genutzte Diskussionsplattform in Form des Rocket Chats deaktivert, es gibt wesentlich aktivere Foren. Daher meine Bitte: Engagement in dem Bereich gerne bei Hackers Against Climate Crisis leisten. Danke.
+Clemens</description>
+    </item>
     
     <item>
       <title>Space Eye - Satellitenbilder und autonome Drohnen</title>
@@ -33,7 +43,7 @@ Der Vortrag von Julia Riede:
 Deaths per TWh - The Price of Energy and Reducing CO2 Emissions
 Außerdem ist mir aufgefallen
 Es gibt das Village about:freedom mit interessanten Sessions:
- Reuse, Repair, Recycle, Rethink, Redesign Digitale Werkzeuge zum Verständnis von Klima und Wetter Digitale Werkzeuge zum Verständnis der Energiewende Estimate and calculate carbon footprints  about:freedom is a cluster with a focus on digital (human) rights politics, freedom of information and Free Software.</description>
+ Reuse, Repair, Recycle, Rethink, Redesign Digitale Werkzeuge zum Verständnis von Klima und Wetter Digitale Werkzeuge zum Verständnis der Energiewende [Estimate and calculate carbon footprints](Estimate and calculate carbon footprints)  about:freedom is a cluster with a focus on digital (human) rights politics, freedom of information and Free Software.</description>
     </item>
     
     <item>
@@ -43,7 +53,7 @@ Es gibt das Village about:freedom mit interessanten Sessions:
       
       <guid>https://ventilator.github.io/participate/</guid>
       <description>Mitmachen  Wir haben einen RocketChat: tuwat.hackersforfuture.de
-Dort kann jeder anonym lesen und pseudonym schreiben (keine Emailadresse erforderlich) Neuigkeiten gibt es auch auf Twitter. gerne folgen   Clemens</description>
+Dort kann jeder anonym lesen und pseudonym schreiben (keine Emailadresse erforderlich) Neuigkeiten gibt es auch auf Twitter. gerne folgen  Clemens</description>
     </item>
     
     <item>
@@ -86,9 +96,7 @@ Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach 
       <pubDate>Sat, 22 Jun 2019 08:08:00 +0200</pubDate>
       
       <guid>https://ventilator.github.io/targets/</guid>
-      <description>Wir unterstützen FridaysForFuture ideell, materiell sowie personell Wir engagieren uns im gesellschaftlichen Diskurs
- Wir vermitteln Wissen um Technologie Wir wünschen uns klare Bekenntnisse zum Klimaschutz  Warum?  Wir denken, globale Erwärmung verdient eine hohe Priorität
- Wir finden, Technologie kann zum Klimaschutz und zur Klimaresilienz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  Warum &amp;lsquo;Hacker&amp;rsquo;? Hacker (engl.) = Mensch mit Technologiebezug und ethischen Grundsätzen</description>
+      <description>Wir unterstützen FridaysForFuture ideell, materiell sowie personell Wir engagieren uns im gesellschaftlichen Diskurs Wir vermitteln Wissen um Technologie Wir wünschen uns klare Bekenntnisse zum Klimaschutz  Warum?  Wir denken, globale Erwärmung verdient eine hohe Priorität Wir finden, Technologie kann zum Klimaschutz und zur Klimaresilienz beitragen Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz  Warum &amp;lsquo;Hacker&amp;rsquo;? Hacker (engl.) = Mensch mit Technologiebezug und ethischen Grundsätzen</description>
     </item>
     
     <item>
@@ -109,8 +117,7 @@ Wir zeigen
       
       <guid>https://ventilator.github.io/spaces/</guid>
       <description>In den meisten Städten gibt es Hack- und Makespaces, in denen sich Menschen engagieren. Das sind tolle Orte, $Dinge auszuprobieren. Was könnte dort jetzt und sofort getan werden, das Klima zu schützen?
-Einige Ideen:
-&amp;ldquo;Space Shuttle&amp;rdquo; Zwei, drei alte Fahrräder reparieren und den Mitgliedern zur Verfügung stellen. Schon hat man ein stationsgebundenes und stadtweites Fahrradverleihsystem. Bewährt sich ein großes und ein kleines Rad für verschieden große Menschen sowie Schlösser und Schlüssel in den Gemeinschaftsräumen für Mitglieder und Freunde zu hinterlegen.</description>
+Einige Ideen: &amp;ldquo;Space Shuttle&amp;rdquo; Zwei, drei alte Fahrräder reparieren und den Mitgliedern zur Verfügung stellen. Schon hat man ein stationsgebundenes und stadtweites Fahrradverleihsystem. Bewährt sich ein großes und ein kleines Rad für verschieden große Menschen sowie Schlösser und Schlüssel in den Gemeinschaftsräumen für Mitglieder und Freunde zu hinterlegen.</description>
     </item>
     
     <item>
@@ -122,8 +129,7 @@ Einige Ideen:
       <description>Die Feinstaubbelastung am Wohnort messen Wir haben in Regensburg etliche Feinstaubsensoren verteilt. Die Messwerte können auf der Karte angeschaut werden, dort gibt es alle Daten der weltweiten Citizen-Science-Bewegung. Hilfestellung zum Bau eigener Sensoren gibt es in lokalen Hackspaces.
 Ein Projekt von luftdaten.info aus Stuttgart.
 Mobile Sensoren Die &amp;ldquo;TTGO&amp;rdquo; Plattform ist ein Arduino-kompatibler Mikrocontroller mit
-- GPS - LoraWAN - Akku-Management
-Das ist eine gute Lösung, mobile Sensoraufzeichnungen anzufertigen. z.B. mit dem Fahrrad umherfahren um eine Temperatur und Feinstaubmessung aufzuzeichnen.</description>
+ GPS LoraWAN Akku-Management  Das ist eine gute Lösung, mobile Sensoraufzeichnungen anzufertigen. z.B. mit dem Fahrrad umherfahren um eine Temperatur und Feinstaubmessung aufzuzeichnen.</description>
     </item>
     
   </channel>

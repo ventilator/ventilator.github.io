@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HackersForFuture</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Posts on HackersForFuture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 12:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 12:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ventilator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>goto: Hackers Against Climate Crisis</title>
+      <link>https://ventilator.github.io/posts/pause/</link>
+      <pubDate>Wed, 08 Apr 2020 12:30:00 +0200</pubDate>
+      
+      <guid>https://ventilator.github.io/posts/pause/</guid>
+      <description>Die forfuture-Bewegung ist wichtig. Für mich aktuell die Situation um COVID-19 dringender. Ich habe die wenig genutzte Diskussionsplattform in Form des Rocket Chats deaktivert, es gibt wesentlich aktivere Foren. Daher meine Bitte: Engagement in dem Bereich gerne bei Hackers Against Climate Crisis leisten. Danke.
+Clemens</description>
+    </item>
     
     <item>
       <title>Space Eye - Satellitenbilder und autonome Drohnen</title>
@@ -33,7 +43,7 @@ Der Vortrag von Julia Riede:
 Deaths per TWh - The Price of Energy and Reducing CO2 Emissions
 Außerdem ist mir aufgefallen
 Es gibt das Village about:freedom mit interessanten Sessions:
- Reuse, Repair, Recycle, Rethink, Redesign Digitale Werkzeuge zum Verständnis von Klima und Wetter Digitale Werkzeuge zum Verständnis der Energiewende Estimate and calculate carbon footprints  about:freedom is a cluster with a focus on digital (human) rights politics, freedom of information and Free Software.</description>
+ Reuse, Repair, Recycle, Rethink, Redesign Digitale Werkzeuge zum Verständnis von Klima und Wetter Digitale Werkzeuge zum Verständnis der Energiewende [Estimate and calculate carbon footprints](Estimate and calculate carbon footprints)  about:freedom is a cluster with a focus on digital (human) rights politics, freedom of information and Free Software.</description>
     </item>
     
     <item>
